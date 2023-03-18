@@ -1,0 +1,1 @@
+# nahmii-testnet-3.0
